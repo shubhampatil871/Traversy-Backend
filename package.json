@@ -1,0 +1,14 @@
+{
+  "name": "node-practice",
+  "version": "1.0.0",
+  "description": "node practice",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "shubham patil",
+  "license": "MIT"
+}
